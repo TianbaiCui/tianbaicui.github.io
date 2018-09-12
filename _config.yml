@@ -1,2 +1,4 @@
 name: Tianbai Cui, University of Minnesota
 markdown: kramdown
+
+theme: jekyll-theme-cayman
