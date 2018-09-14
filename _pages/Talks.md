@@ -10,7 +10,7 @@ header:
 <p class="page__meta" style="font-size:70%;"> <i class="far fa-calendar-alt" aria-hidden="true"></i> {{ "2018-03-08" | date: '%B %d, %Y' }} &nbsp;&nbsp; <i class="fas fa-map-marked-alt"></i> Los Angeles, CA, USA</p>
 
 <hr>
-
+---
 <hr />
 
 <h3>Gap oscillations in superconductors driven out of equilibrium</h3>
