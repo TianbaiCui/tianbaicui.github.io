@@ -4,6 +4,12 @@ permalink: /Talks/
 header:
   image: "/assets/images/Venice_2.jpg"
 ---
+<strong>Quench dynamics and gap oscillations of non-equilibrium multiband superconductors</strong>
+APS March Meeting @ Los Angeles, CA, USA, <em>Mar 8, 2018</em>
+<em><a href="https://meetings.aps.org/Meeting/MAR18/Session/R31.3">Abstract</a></em>
+
+<hr />
+
 <strong>Gap oscillations in superconductors driven out of equilibrium</strong>
 Condensed matter sack lunch seminar @ University of Minnesota, <em>Apr 7, 2017</em>
 
