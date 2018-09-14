@@ -13,7 +13,7 @@ header:
 
 <hr />
 
-<strong>Gap oscillations in superconductors driven out of equilibrium</strong>
+<h3>Gap oscillations in superconductors driven out of equilibrium</h3>
 Condensed matter sack lunch seminar @ University of Minnesota, <em>Apr 7, 2017</em>
 
 <hr />
