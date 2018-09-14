@@ -1,9 +1,13 @@
 # main links
 main:
-  - title: "Research"
-    url: /Research/
+  - title: "Home"
+    url: "https://tianbaicui.github.io"
   - title: "Teaching"
     url: /Teaching/
+  - title: "Research"
+    url: /Research/
+  - title: "Talks"
+    url: /Talks/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
