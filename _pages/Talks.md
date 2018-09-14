@@ -7,10 +7,10 @@ header:
 <strong>Quench dynamics and gap oscillations of non-equilibrium multiband superconductors</strong>
 
 <p class="page__meta"><i class="far fa-calendar-alt" aria-hidden="true"></i> {{ "2018-03-08" | date: '%B %d, %Y' }}</p>
-
 <p class="page__meta"><i class="fas fa-map-marked-alt"></i> Los Angeles, CA, USA</p>
 
-APS March Meeting 2018 <a href="https://meetings.aps.org/Meeting/MAR18/Session/R31.3">Abstract</a></em>
+APS March Meeting 2018
+<em><a href="https://meetings.aps.org/Meeting/MAR18/Session/R31.3">Abstract</a></em>
 
 <hr />
 
