@@ -107,7 +107,7 @@ author:
   email            : tianbaicui@gmail.com
   links:
     - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
+      icon: "fas fa-fw fa-envelope"
       #url: mailto:tianbaicui@gmail.com
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
