@@ -5,7 +5,7 @@ header:
   image: "/assets/images/Venice_2.jpg"
 ---
 <h3>Quench dynamics and gap oscillations of non-equilibrium multiband superconductors</h3>
-<em>APS March Meeting 2018 </em>
+<em>APS March Meeting 2018 </em> <br>
 <a href="https://meetings.aps.org/Meeting/MAR18/Session/R31.3">Abstract</a>
 <p class="page__meta" style="font-size:70%;"> <i class="far fa-calendar-alt" aria-hidden="true"></i> {{ "2018-03-08" | date: '%B %d, %Y' }} &nbsp;&nbsp; <i class="fas fa-map-marked-alt"></i> Los Angeles, CA, USA</p>
 <hr>
@@ -19,7 +19,7 @@ header:
 ---
 <hr />
 <h3>Rare region effects on the Ising-nematic quantum phase transition</h3>
-<em>APS March Meeting 2017</em>
+<em>APS March Meeting 2017</em> <br>
 <a href="http://meetings.aps.org/Meeting/MAR17/Session/R39.2">Abstract</a>
 <p class="page__meta" style="font-size:70%;"> <i class="far fa-calendar-alt" aria-hidden="true"></i> {{ "2017-03-16" | date: '%B %d, %Y' }} &nbsp;&nbsp; <i class="fas fa-map-marked-alt"></i> New Orleans, LA, USA</p>
 <hr>
