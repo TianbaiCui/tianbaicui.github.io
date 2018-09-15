@@ -21,6 +21,8 @@ header:
 <h3>Rare region effects on the Ising-nematic quantum phase transition</h3>
 <em>APS March Meeting 2017</em> <br>
 <a href="http://meetings.aps.org/Meeting/MAR17/Session/R39.2">Abstract</a>
+&nbsp;&nbsp;
+<a href="https://www.slideshare.net/secret/wgiaNtUYPHVvGC">Slides</a>
 <p class="page__meta" style="font-size:70%;"> <i class="far fa-calendar-alt" aria-hidden="true"></i> {{ "2017-03-16" | date: '%B %d, %Y' }} &nbsp;&nbsp; <i class="fas fa-map-marked-alt"></i> New Orleans, LA, USA</p>
 <hr>
 ---

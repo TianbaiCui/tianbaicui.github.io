@@ -9,7 +9,7 @@ I led Lab and Discussion sections for PHYS 1201 & 1301. During the Lab section, 
 For PHYS 2601, besides leading a Discussion section and grading, I wrote solutions for all the homework assignments, discussion problems, quizzes and exams. All the homework assignments were taken from the problems in the textbook [Quantum Physics of Atoms, Molecules, Solids, Nuclei and Particles](https://www.amazon.com/Quantum-Physics-Molecules-Solids-Particles/dp/047187373X/ref=sr_1_1?ie=UTF8&qid=1507669735&sr=8-1&keywords=quantum+physics+of+atoms+molecules+solids+nuclei+and+particles) *by Robert Eisberg and Robert Resnick*.
 For PHYS 4511 and 8001, I was responsible for grading all the homework and quizzes.
 
-At University of Minnesota, we follow the so call Minnesota Model for all the large introductory physics courses. I am proud to be able to implement the Minnesota Model which becomes part of the training for my Ph.D program. Details about the Minnesota Model can be found by clicking the [link]("http://groups.physics.umn.edu/physed/Research/MNModel/Model.html").
+At University of Minnesota, we follow the so call Minnesota Model for all the large introductory physics courses. I am proud to be able to implement the Minnesota Model which becomes part of the training for my Ph.D program. Details about the Minnesota Model can be found by clicking the [link](http://groups.physics.umn.edu/physed/Research/MNModel/Model.html).
 
 ---
 
