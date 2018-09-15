@@ -26,7 +26,8 @@ header:
 ---
 <hr />
 <h3>One dimensional Luttinger liquid and bosonization</h3>
-<em>Condensed matter theory journal club @ University of Minnesota</em> <a href="http://www.physics.umn.edu/events/calendar/spa.all/2016/fall/calendar.html?item=44941">Abstract</a>
+<em>Condensed matter theory journal club @ University of Minnesota</em> <br>
+<a href="http://www.physics.umn.edu/events/calendar/spa.all/2016/fall/calendar.html?item=44941">Abstract</a>
 <p class="page__meta" style="font-size:70%;"> <i class="far fa-calendar-alt" aria-hidden="true"></i> {{ "2016-11-30" | date: '%B %d, %Y' }} &nbsp;&nbsp; <i class="fas fa-map-marked-alt"></i> Minneapolis, MN, USA</p>
 <hr>
 ---
@@ -38,17 +39,20 @@ header:
 ---
 <hr />
 <h3>How generic scale invariance influences quantum and classical phase transitions</h3>
-<em>Condensed matter theory journal club @ University of Minnesota</em><a href="http://www.physics.umn.edu/events/calendar/spa.all/2016/spring/calendar.html?item=40371">Abstract</a>
+<em>Condensed matter theory journal club @ University of Minnesota</em> <br>
+<a href="http://www.physics.umn.edu/events/calendar/spa.all/2016/spring/calendar.html?item=40371">Abstract</a>
 <p class="page__meta" style="font-size:70%;"> <i class="far fa-calendar-alt" aria-hidden="true"></i> {{ "2016-02-23" | date: '%B %d, %Y' }} &nbsp;&nbsp; <i class="fas fa-map-marked-alt"></i> Minneapolis, MN, USA</p>
 <hr>
 ---
 <hr />
 <h3>Majorana modes in solid-state systems</h3>
-<em>Condensed matter theory journal club @ University of Minnesota</em> <a href="http://www.physics.umn.edu/events/calendar/spa.all/2015/spring/calendar.html?item=34381">Abstract</a>
+<em>Condensed matter theory journal club @ University of Minnesota</em> <br>
+<a href="http://www.physics.umn.edu/events/calendar/spa.all/2015/spring/calendar.html?item=34381">Abstract</a>
 <p class="page__meta" style="font-size:70%;"> <i class="far fa-calendar-alt" aria-hidden="true"></i> {{ "2015-04-07" | date: '%B %d, %Y' }} &nbsp;&nbsp; <i class="fas fa-map-marked-alt"></i> Minneapolis, MN, USA</p>
 <hr>
 ---
 <hr />
 <h3>Griffiths effects at classical and quantum phase transitions</h3>
-<em>Condensed matter theory journal club @ University of Minnesota</em> <a href="http://www.physics.umn.edu/events/calendar/spa.all/2014/fall/calendar.html?item=32121">Abstract</a>
+<em>Condensed matter theory journal club @ University of Minnesota</em> <br>
+<a href="http://www.physics.umn.edu/events/calendar/spa.all/2014/fall/calendar.html?item=32121">Abstract</a>
 <p class="page__meta" style="font-size:70%;"> <i class="far fa-calendar-alt" aria-hidden="true"></i> {{ "2014-12-08" | date: '%B %d, %Y' }} &nbsp;&nbsp; <i class="fas fa-map-marked-alt"></i> Minneapolis, MN, USA</p>
