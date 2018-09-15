@@ -104,6 +104,8 @@ author:
   avatar           : "/assets/images/bio-photo.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Ph.D. Candidate"
   location         : "Minneapolis, MN"
+  linkedin         : tianbai-Cui
+  github           : TianbaiCui
   email            : tianbaicui@gmail.com
   links:
     - label: "Email"
