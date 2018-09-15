@@ -113,7 +113,7 @@ author:
       #url: mailto:tianbaicui@gmail.com
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/tianbai-cui"
+      #url: "https://www.linkedin.com/in/tianbai-cui"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -125,7 +125,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github-square"
-      url: "https://github.com/TianbaiCui"
+      #url: "https://github.com/TianbaiCui"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
