@@ -42,7 +42,7 @@ In my future study, I will continue my endeavor to push the limit of current und
 {% endfigure %}
 
 {% include image.html
-   src="Research_Statement/fig2.png"
-   alt="fig2"
-   caption="Figure 2: Schematics of three possible density patterns in strongly correlated materials. The circles indicate the density profile and the shaded areas indicates the density fluctuations. The density wave order (a) has an anisotropic and inhomogeneous density profile.  The nematic order (b) has a homogeneous density profile (c) but the density fluctuations are anisotropic. In (c), the system is homogeneous and isotropic."
- %}
+src="Research_Statement/fig2.png"
+alt="fig2"
+caption="Figure 2: Schematics of three possible density patterns in strongly correlated materials. The circles indicate the density profile and the shaded areas indicates the density fluctuations. The density wave order (a) has an anisotropic and inhomogeneous density profile.  The nematic order (b) has a homogeneous density profile (c) but the density fluctuations are anisotropic. In (c), the system is homogeneous and isotropic."
+%}
