@@ -37,9 +37,8 @@ In my future study, I will continue my endeavor to push the limit of current und
   caption="Figure 1: Schematic phase diagrams of Cuprates and Pnictides superconducting materials. In both diagrams, the vertical axis is temperature and horizontal axis is the number of holes (axis to the right) or electrons (axis to the left). Different phases are labeled in the diagrams. (The figure is taken from the webpage: <a href="http://research.physics.berkeley.edu/lanzara/research/pnictide.html">http://research.physics.berkeley.edu/lanzara/research/pnictide.html</a>"
   %}
 
-{% figure caption:"adfsdf" %}
-  ![sdf](assets/images/Research_Statement/fig1.png)
-{% endfigure %}
+![](assets/images/Research_Statement/fig1.png)
+*Figure 1: Schematic phase diagrams of Cuprates and Pnictides superconducting materials. In both diagrams, the vertical axis is temperature and horizontal axis is the number of holes (axis to the right) or electrons (axis to the left). Different phases are labeled in the diagrams. (The figure is taken from the webpage: [http://research.physics.berkeley.edu/lanzara/research/pnictide.html](http://research.physics.berkeley.edu/lanzara/research/pnictide.html)*
 
 {% include image.html
 src="Research_Statement/fig2.png"
