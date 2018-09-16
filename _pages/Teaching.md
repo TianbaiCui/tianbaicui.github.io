@@ -2,7 +2,7 @@
 title: Teaching
 permalink: /Teaching/
 header:
-  image: "/assets/images/Venice_2.jpg"
+  image: "/assets/images/Engelberg_2.jpg"
 ---
 I served as a teaching assistant (TA) at the physics department of University of Minnesota from 2013 Fall to 2016 Spring.
 I led Lab and Discussion sections for PHYS 1201 & 1301. During the Lab section, I was responsible for going through all the warm-up questions and answering all the questions students had for the lab problem they tried to solve. At the end of each lab section, I led students to draw their conclusions about the lab problem and summarize the physics they learnt in the Lab. In the Discussion section, I guided the students to solve physics problems as groups. Aside from helping students understand the physics content better, I ensured every students cooperated with their group members coherently.
