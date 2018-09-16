@@ -38,7 +38,7 @@ In my future study, I will continue my endeavor to push the limit of current und
   %}
 
 {% figure caption:"adfsdf" %}
-  ![sdf](assets/Research_Statement/fig1.png)
+  ![sdf](assets/images/Research_Statement/fig1.png)
 {% endfigure %}
 
 {% include image.html
