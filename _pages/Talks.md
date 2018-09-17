@@ -8,7 +8,7 @@ header:
 <em>Condensed matter sack lunch seminar @ University of Minnesota</em> <br>
 <a href="http://www.physics.umn.edu/events/calendar/spa.all/2018/spring/calendar.html?item=53152">Abstract</a>
 &nbsp;&nbsp;
-<a href="https://www.slideshare.net/TianbaiCui/aps-march-meeting-2018-114733588">Slides</a>
+<a href="https://www.slideshare.net/TianbaiCui/sack-lunch-seminar-2018-spring-114752675">Slides</a>
 <p class="page__meta" style="font-size:70%;"> <i class="far fa-calendar-alt" aria-hidden="true"></i> {{ "2018-04-06" | date: '%B %d, %Y' }} &nbsp;&nbsp; <i class="fas fa-map-marked-alt"></i> Minneapolis, MN, USA</p>
 <hr>
 ---
