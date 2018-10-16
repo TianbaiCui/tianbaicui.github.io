@@ -9,9 +9,6 @@ My research is devoted to understand the behaviors of the strongly correlated el
 
 **1. How rare events change the Ising-nematic quantum phase transitions in randomly disordered systems?**
 
-[poster](/assets/images/Posters/poster_disorder.pdf)
 
 
 **2. What is the dynamics of the superconductivity when it is driven out of equilibrium?**
-
-[poster](/assets/images/Posters/poster_non-equilibrium.pdf)
