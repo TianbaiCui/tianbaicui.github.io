@@ -1,5 +1,5 @@
 ---
-title: [Research Statement](/Research-Statement/)
+title: Research Statement
 date: 2018-09-16
 ---
 
