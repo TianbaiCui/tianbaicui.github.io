@@ -21,15 +21,18 @@ In randomly disordered systems, the probably of finding a large spatial region t
 
 *For more information:*
 [poster](https://drive.google.com/file/d/1JTyWSW0gmFYN3xDqa-QvIsFO4S32phZb/view?usp=sharing)
-
+\
 [1] [T. Cui and R. M. Fernandes, Phys. Rev. B 98, (2018).](https://link.aps.org/doi/10.1103/PhysRevB.98.085117)
 
 
 **2. What is the dynamics of the superconductivity when it is driven out of equilibrium?**
 
-Recent advances in the ultra-fast laser techniques have opened a new window to drive and probe superconductors out of equilibrium. With my advisor, we collaborate with researchers from Iowa State University and Ames Laboratory to study the intricate non-equilibrium behaviors of superconductivity in time scales that are as small as $$10^-12$$ second (called picosecond). We propose a formalism to incorporate damping to the coherent time evolution of the superconducting gap. Using this formalism, we successfully interpret the terahertz pump-probe experiments with various setups. 
+Recent advances in the ultra-fast laser techniques have opened a new window to drive and probe superconductors out of equilibrium. With my advisor, we collaborate with researchers from Iowa State University and Ames Laboratory to study the intricate non-equilibrium behaviors of superconductivity in time scales that are as small as $$10^-12$$ second (called picosecond). We propose a formalism to incorporate damping to the coherent time evolution of the superconducting gap. Using this formalism, we successfully interpret the terahertz pump-probe experiments with various setups.
 
-![](assets/images/Mapping.png)![](assets/images/Pseudospin_EOM.jpeg)
+![](assets/images/Mapping.png)
 *Figure 2: Illustration of the non-equilibrium dynamics of the electronic degrees of freedom which are mapped into psudospins.*
+
+
 [2] [T. Cui, X. Yang, C. Vaswani, J. Wang, R. M. Fernandes and P. P. Orth, arXiv:1802.09711](https://arxiv.org/abs/1802.09711)
+\
 [3] T. Cui, M. Schü$$\"{u}$$tt, P. P. Orth and R. M. Fernandes (in preparation)
