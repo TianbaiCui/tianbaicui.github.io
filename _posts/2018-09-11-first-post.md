@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Wellcome!"
+title: Welcome!
 date: 2018-09-11
 ---
 
