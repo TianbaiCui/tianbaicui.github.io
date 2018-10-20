@@ -40,4 +40,4 @@ We extent the non-equilibrium study to unconventional superconductors, where the
 
 
 [2] [T. Cui, X. Yang, C. Vaswani, J. Wang, R. M. Fernandes and P. P. Orth, arXiv:1802.09711](https://arxiv.org/abs/1802.09711)    
-[3] T. Cui, M. Schü$$\"{u}$$tt, P. P. Orth and R. M. Fernandes (in preparation)
+[3] T. Cui, M. Schütt, P. P. Orth and R. M. Fernandes (in preparation)
