@@ -29,7 +29,7 @@ In randomly disordered systems, the probably of finding a large spatial region t
 
 Recent advances in the ultra-fast laser techniques have opened a new window to drive and probe superconductors out of equilibrium. With my advisor, we collaborate with researchers from Iowa State University and Ames Laboratory to study the intricate non-equilibrium behaviors of superconductivity in time scales that are as small as $$10^{-12}$$ second (called picosecond). We propose a formalism to incorporate damping to the coherent time evolution of the superconducting gap. Using this formalism, we obtain results that are consistent with the terahertz pump-probe experiments with various setups.  
 
-We extent the non-equilibrium study to unconventional superconductors, where the superconducting gap has a more complex structure. We combined analytical and numerical methods to solve the equations of motion that govern the gap oscillations and found unique features that are absent in the conventional superconductors. This part of work is right now under preparation, and is expected to be posted very soon. So, stay tuned~ :)
+We extend the non-equilibrium study to unconventional superconductors, where the superconducting gap has a more complex structure. We combined analytical and numerical methods to solve the equations of motion that govern the gap oscillations and found unique features that are absent in the conventional superconductors. This part of work is right now under preparation, and is expected to be posted very soon. So, stay tuned~ :)
 
 ![](/assets/images/Mapping.png)![](/assets/images/Pseudospin_EOM.jpeg)
 *Figure 2: Illustration of the non-equilibrium dynamics of the electronic degrees of freedom which are mapped into psudospins.*
